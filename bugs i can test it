@@ -1,0 +1,3 @@
+XSS Via POST request when i'm trying to sign in or another action
+test sqli sleep in register form in register on http history
+test host header injection in reset password page
